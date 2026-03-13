@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Portfolio – Jesugnon Carmel AHOTIN",
+    "description": "Professional portfolio of Jesugnon Carmel AHOTIN, Full Stack Developer focused on product, performance and user experience."
+  },
+  "nav": {
+    "hero": "Overview",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "values": "Values",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "role": "Full Stack Developer",
+    "headline": "I design and build reliable, high‑performance web products that serve business goals.",
+    "subtitle": "Specialized in Next.js, Firebase and modern architectures, I help product teams from idea to production.",
+    "ctaProjects": "View my projects",
+    "ctaContact": "Contact me",
+    "ctaCv": "Download CV",
+    "ctaWhatsapp": "Chat on WhatsApp"
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "Full-stack development with a strong focus on performance, maintainability and code readability.",
+    "frontend": "Frontend",
+    "frontendDescription": "React, Next.js, Vue.js, TailwindCSS, shadcn/ui",
+    "backend": "Backend",
+    "backendDescription": "Node.js, NestJS, Express, REST & GraphQL APIs",
+    "mobile": "Mobile",
+    "mobileDescription": "Flutter, React Native, app store integration",
+    "database": "Database",
+    "databaseDescription": "PostgreSQL, MySQL, Firebase/Firestore",
+    "devops": "DevOps",
+    "devopsDescription": "Docker, Nginx, CI/CD, monitoring, Vercel",
+    "tools": "Tools",
+    "toolsDescription": "GitHub, GitLab, Jira, Notion, automated tests"
+  },
+  "projects": {
+    "title": "Selected projects",
+    "filterAll": "All",
+    "filterWeb": "Web apps",
+    "filterSaaS": "SaaS",
+    "filterMobile": "Mobile",
+    "viewProject": "View project",
+    "viewCode": "View code"
+  },
+  "experience": {
+    "title": "Experience",
+    "intro": "A journey built between SaaS products, business platforms and mentoring of technical teams.",
+    "items": {
+      "pixaalab": {
+        "title": "Pixaalab – Software Developer",
+        "period": "2025 – 2026",
+        "description": "Full‑stack web and mobile development, new features, technical documentation and contribution to project management."
+      },
+      "hkim": {
+        "title": "H-KIM – Team Lead & Full Stack Engineer",
+        "period": "2024 – 2026",
+        "description": "Leading 3 teams (up to 10 devs), CI/CD setup, reducing delivery time and production incidents through tests and code reviews."
+      },
+      "digitalcab": {
+        "title": "Digital Cab S.A.S – Web Developer",
+        "period": "2020 – 2026",
+        "description": "Full‑stack web apps with Firebase integration, feature delivery in production environments."
+      },
+      "scarbri": {
+        "title": "Scar-Soft / BriTech – Web Developer",
+        "period": "2022 – 2023",
+        "description": "Full‑stack development, bug fixing, testing and continuous improvement on business solutions."
+      }
+    }
+  },
+  "values": {
+    "title": "Values",
+    "rigor": "Rigor",
+    "rigorDescription": "Clear specifications, code reviews, test coverage and tracked deliveries.",
+    "transparency": "Transparency",
+    "transparencyDescription": "Honest communication about timelines, risks and technical constraints.",
+    "innovation": "Innovation",
+    "innovationDescription": "Modern solutions (Next.js, Firebase, SaaS) tailored to business context.",
+    "engagement": "Commitment",
+    "engagementDescription": "Long‑term collaboration, focus on delivered value and team relationships.",
+    "codeQuality": "Code quality",
+    "codeQualityDescription": "Clear patterns, controlled technical debt and lightweight but useful documentation.",
+    "excellence": "Excellence",
+    "excellenceDescription": "Striving for a very high level of quality in UX, code and performance.",
+    "speed": "Speed",
+    "speedDescription": "Fast, iterative delivery without sacrificing stability or technical quality.",
+    "efficiency": "Efficiency",
+    "efficiencyDescription": "Focus on concrete business impact, the right architecture choices and time‑to‑market."
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Sharing experience, best practices and real-world feedback.",
+    "ctaSubmit": "Submit an article",
+    "submitTitle": "Submit a guest article",
+    "submitDescription": "Share your ideas. Articles are manually reviewed before publication.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "title": "Article title",
+      "content": "Content",
+      "submit": "Submit article"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "A project, a mission or a collaboration? Let’s talk.",
+    "description": "Code review, a new product or support for an existing team: share as much context as possible.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "file": "Attach a document (optional)",
+      "submit": "Send message"
+    },
+    "whatsapp": "Or ping me directly on WhatsApp"
+  },
+  "admin": {
+    "blog": {
+      "title": "Blog administration",
+      "pending": "Pending",
+      "published": "Published",
+      "rejected": "Rejected"
+    }
+  }
+}
+

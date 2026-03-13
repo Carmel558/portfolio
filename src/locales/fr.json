@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Portfolio – Jesugnon Carmel AHOTIN",
+    "description": "Portfolio professionnel de Jesugnon Carmel AHOTIN, Full Stack Developer orienté produit, performance et expérience utilisateur."
+  },
+  "nav": {
+    "hero": "Présentation",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "experience": "Expériences",
+    "values": "Valeurs",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "role": "Full Stack Developer",
+    "headline": "Je conçois et développe des produits web fiables, performants et orientés business.",
+    "subtitle": "Spécialisé en Next.js, Firebase et architectures modernes, j'accompagne les équipes produit de l'idée au déploiement en production.",
+    "ctaProjects": "Voir mes projets",
+    "ctaContact": "Me contacter",
+    "ctaCv": "Télécharger mon CV",
+    "ctaWhatsapp": "Discuter sur WhatsApp"
+  },
+  "skills": {
+    "title": "Compétences",
+    "description": "Développement full stack orienté produit, avec un focus sur la performance, la maintenabilité et la lisibilité du code.",
+    "frontend": "Frontend",
+    "frontendDescription": "React, Next.js, Vue.js, TailwindCSS, shadcn/ui",
+    "backend": "Backend",
+    "backendDescription": "Node.js, NestJS, Express, APIs REST & GraphQL",
+    "mobile": "Mobile",
+    "mobileDescription": "Flutter, React Native, intégration stores",
+    "database": "Base de données",
+    "databaseDescription": "PostgreSQL, MySQL, Firebase/Firestore",
+    "devops": "DevOps",
+    "devopsDescription": "Docker, Nginx, CI/CD, monitoring, Vercel",
+    "tools": "Outils",
+    "toolsDescription": "GitHub, GitLab, Jira, Notion, tests automatisés"
+  },
+  "projects": {
+    "title": "Projets sélectionnés",
+    "filterAll": "Tous",
+    "filterWeb": "Applications web",
+    "filterSaaS": "SaaS",
+    "filterMobile": "Mobile",
+    "viewProject": "Voir le projet",
+    "viewCode": "Voir le code"
+  },
+  "experience": {
+    "title": "Expériences",
+    "intro": "Un parcours construit entre produits SaaS, plateformes métiers et accompagnement d'équipes techniques.",
+    "items": {
+      "pixaalab": {
+        "title": "Pixaalab – Développeur logiciels",
+        "period": "2025 – 2026",
+        "description": "Développement d'applications web et mobiles full stack, ajout de fonctionnalités, documentation technique, participation à la gestion de projet."
+      },
+      "hkim": {
+        "title": "H-KIM – Chef d'équipe & Full Stack Engineer",
+        "period": "2024 – 2026",
+        "description": "Direction de 3 équipes (jusqu'à 10 devs), mise en place du CI/CD, réduction des délais de livraison et des incidents en production grâce aux tests et revues de code."
+      },
+      "digitalcab": {
+        "title": "Digital Cab S.A.S – Web Developer",
+        "period": "2020 – 2026",
+        "description": "Applications web full stack intégrant Firebase, gestion de fonctionnalités en environnement opérationnel."
+      },
+      "scarbri": {
+        "title": "Scar-Soft / BriTech – Web Developer",
+        "period": "2022 – 2023",
+        "description": "Développement full stack, correction de bugs, tests et amélioration continue sur des solutions métiers."
+      }
+    }
+  },
+  "values": {
+    "title": "Valeurs",
+    "rigor": "Rigueur",
+    "rigorDescription": "Spécifications claires, code revu, couverture de tests et suivi des livraisons.",
+    "transparency": "Transparence",
+    "transparencyDescription": "Communication honnête sur les délais, risques et contraintes techniques.",
+    "innovation": "Innovation",
+    "innovationDescription": "Exploration de solutions modernes (Next.js, Firebase, SaaS) adaptées au contexte business.",
+    "engagement": "Engagement",
+    "engagementDescription": "Accompagnement dans la durée, souci de la valeur livrée et de la relation avec les équipes.",
+    "excellence": "Excellence",
+    "excellenceDescription": "Recherche d'un très haut niveau de qualité sur l'expérience utilisateur, le code et la performance.",
+    "speed": "Rapidité",
+    "speedDescription": "Livraisons rapides et itératives, sans sacrifier la stabilité ni la qualité technique.",
+    "efficiency": "Efficacité",
+    "efficiencyDescription": "Focus sur l'impact business concret, les bons choix d'architecture et le temps de mise sur le marché.",
+    "codeQuality": "Qualité du code",
+    "codeQualityDescription": "Patterns clairs, dette technique contrôlée et documentation légère mais utile."
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Partage d'expériences, de bonnes pratiques et de retours terrain.",
+    "ctaSubmit": "Proposer un article",
+    "submitTitle": "Proposer un article invité",
+    "submitDescription": "Partagez vos idées. Les articles sont relus manuellement avant publication.",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "title": "Titre de l'article",
+      "content": "Contenu",
+      "submit": "Soumettre l'article"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Un projet, une mission ou une collaboration ? Parlons-en.",
+    "description": "Un audit de code, un nouveau produit ou un renfort sur une équipe existante : écrivez-moi avec le maximum de contexte.",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "file": "Joindre un document (optionnel)",
+      "submit": "Envoyer le message"
+    },
+    "whatsapp": "Ou écrivez-moi directement sur WhatsApp"
+  },
+  "admin": {
+    "blog": {
+      "title": "Administration des articles",
+      "pending": "En attente",
+      "published": "Publiés",
+      "rejected": "Rejetés"
+    }
+  }
+}
+
