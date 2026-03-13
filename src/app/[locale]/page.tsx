@@ -109,7 +109,7 @@ export default async function LocaleHome({ params }: Props) {
   const { locale } = await params;
   const dict = await getDictionary(locale);
 
-  const whatsappUrl = `https://whatme/${WHATSAPP_NUMBER}`;
+  const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}`;
 
   return (
     <main className="relative min-h-screen bg-gradient-to-br from-[#050608] via-[#05090B] to-[#050607] text-zinc-50">
@@ -207,14 +207,14 @@ export default async function LocaleHome({ params }: Props) {
               >
                 {dict.hero.ctaContact}
               </a>
-              <Link
+              <a
                 href={whatsappUrl}
                 target="_blank"
                 className="inline-flex items-center gap-2 rounded-full border border-emerald-300 bg-emerald-50 px-4 py-2.5 text-sm text-emerald-700 shadow-sm transition hover:border-emerald-400 hover:bg-emerald-100"
               >
                 <PhoneCall className="h-4 w-4" />
                 {dict.hero.ctaWhatsapp}
-              </Link>
+              </a>
             </div>
           </div>
 
@@ -507,13 +507,13 @@ export default async function LocaleHome({ params }: Props) {
             </p>
             <p className="mt-3 text-xs text-zinc-100">
               {dict.contact.whatsapp}{" "}
-              <Link
+              <a
                 href={whatsappUrl}
                 target="_blank"
                 className="text-emerald-300 hover:text-emerald-200"
               >
                 WhatsApp ({WHATSAPP_NUMBER})
-              </Link>
+              </a>
             </p>
           </div>
           <form
