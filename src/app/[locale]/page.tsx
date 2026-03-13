@@ -135,7 +135,7 @@ export default async function LocaleHome({ params }: Props) {
               </span>
             </div>
           </div>
-          <div className="flex items-center gap-3 text-sm">
+          <div className="flex items-center flex-wrap md:flex-nowrap gap-3 text-sm">
             <Link
               href="https://www.linkedin.com/in/carmel-ahotin/"
               target="_blank"
