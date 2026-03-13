@@ -116,7 +116,7 @@ export default async function LocaleHome({ params }: Props) {
       <div className="pointer-events-none fixed inset-0 bg-[radial-gradient(circle_at_top,_rgba(120,255,180,0.12),_transparent_60%),radial-gradient(circle_at_bottom,_rgba(10,120,90,0.18),_transparent_55%)]" />
       <div className="relative z-10 mx-auto flex min-h-screen max-w-6xl flex-col px-4 pb-20 pt-10 md:px-8 lg:px-12">
         {/* Navigation */}
-        <header className="flex items-center justify-between gap-6 pb-10">
+        <header className="flex items-center justify-between flex-wrap md:flex-nowrap gap-6 pb-10">
           <div className="flex items-center gap-3">
             <div className="relative h-14 w-14 overflow-hidden rounded-full border border-emerald-200 bg-white shadow-sm">
               <Image
