@@ -109,7 +109,7 @@ export default async function LocaleHome({ params }: Props) {
   const { locale } = await params;
   const dict = await getDictionary(locale);
 
-  const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}`;
+  const whatsappUrl = `https://whatme/${WHATSAPP_NUMBER}`;
 
   return (
     <main className="relative min-h-screen bg-gradient-to-br from-[#050608] via-[#05090B] to-[#050607] text-zinc-50">
